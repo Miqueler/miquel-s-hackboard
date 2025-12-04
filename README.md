@@ -24,36 +24,22 @@ Schematic
 PCB
 <img src=assets/pcb.png alt="Schematic" width="300"/>
 
-I used MX_V2 for the keyswitch footprints. I think in retrospect, I should've added a ground plane
 
 ## Firmware Overview
-This hackpad uses [QMK](https://qmk.fm/) firmware for everything. 
+This hackpad uses [KMK]([https://kmk.fm/](https://github.com/KMKfw/kmk_firmware)) firmware for everything. 
 
-- the rotary encoder changes volume. press to mute
-- The 4 keys currently act as macros I dynamically change in VIA.
-- The OLED is a cat!! Bongocat!! :3
+- The 4 keys currently act as macros.
 
-<img src=assets/bongocat.png alt="Bongo Cat" width="300"/>
 
-I might add more in the future! That's it for now
+I might add more in the future! That's it for now but this has been a cool learning experience, a way to start to dabble into this world of design, both for the PBC design part of things as well as the 3d modeling!
 
 ## BOM:
 Here should be everything you need to make this hackpad
 
 - 4x Cherry MX Switches
 - 4x DSA Keycaps
-- 5x M3x5x4 Heatset inserts
-- 3x M3x16mm SHCS Bolts
-- 2X M3x12mm SHCS Bolts
-- 5x 1N4148 DO-35 Diodes.
-- 2x WS2812B LEDs
+- 2x SK6812MINI LEDs
 - 1x 0.91" 128x32 OLED Display
-- 1x EC11 Rotary Encoder
 - 1x XIAO RP2040
-- 1x Case (3 printed parts, 2 laser cut parts)
+- 1x Case (2 printed parts)
 
-
-## Extra stuff
-Honestly I'm not quite too sure what to add here. Favourite meme? a joke?? Uhhh you can imagine it
-
-Oh fun fact: I built mine in SF the day before github universe LOL
