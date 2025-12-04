@@ -10,7 +10,7 @@ This is my 4 key macropad with 2 SK6812MINI Leds, and uses KMK firmware
 ## CAD Model:
 It has 2 separate printed pieces. The base where the PCB sits, and the top cover. 
 
-<img src=assets/cad.png alt="Schematic" width="500"/>
+<img src=assets/Case.png alt="Schematic" width="500"/>
 
 Made in Fusion360. Nifty
 
