@@ -27,7 +27,7 @@ keyboard.matrix = KeysScanner(
 # Look here for keycodes: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/keycodes.md
 # And here for macros: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/macros.md
 keyboard.keymap = [
-    [KC.A, KC.DELETE, KC.MACRO("Hello world!"), KC.Macro(Press(KC.LCMD), Tap(KC.S), Release(KC.LCMD)),]
+    [KC.A, KC.DELETE, KC.MACRO("This is a test!"), KC.Macro(Press(KC.LCMD), Tap(KC.W), Release(KC.LCMD)),]
 ]
 
 # Start kmk!
