@@ -12,11 +12,11 @@ It has 2 separate printed pieces. The base where the PCB sits, and the top cover
 
 <img src=assets/Case.png alt="Schematic" width="500"/>
 
-Made in Fusion360. Nifty
+Made in Fusion360. 
 
 
 ## PCB
-Here's my PCB! It was made in KiCad. The silkscreen was imported from a Figma image.
+Here's my PCB! It was made in KiCad. 
 
 Schematic
 <img src=assets/schematic.png alt="Schematic" width="300"/>
